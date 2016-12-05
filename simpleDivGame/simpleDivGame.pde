@@ -69,3 +69,7 @@ void solution() {
 void mousePressed() {
   transit = false;
 }
+
+void keyPressed() {
+  transit = false;
+}
